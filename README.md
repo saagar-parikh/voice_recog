@@ -1,3 +1,3 @@
-# Flutter Speech to Text App Tutorial | Voice Recognition
+# Voice Recognition
 
-[YouTube Tutorial](https://youtu.be/wDWoD1AaLu8)
+Forked from [MarcusNg/flutter_voice](https://github.com/MarcusNg/flutter_voice)
